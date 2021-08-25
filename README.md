@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @ShubhamRoy-developer
 - 👀 I’m interested in Designing UI/UX, Frontend developing,Website Designing, etc.
 - 🌱 I’m currently learning Software engineering.
-- 💞️ I’m looking to collaborate on any king of project ,work which is related to my interests.
-- 📫 How to reach me.Please contact me with information I have given below.
+- 💞️ I’m looking to collaborate on any kind of project ,work which is related to my interests.
+- 📫 Please contact with me by information I have given below.
      Email Id -- Shubhuroy6410@gmail.com
+     
      Mobile Number -- +91 83530-14159
 
 <!---
